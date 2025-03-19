@@ -41,6 +41,10 @@ body {
   width: 100%;
   aspect-ratio: 1/1;
 }
+.tiktok-embed {
+  width: 100%;
+  display: cover;
+}
 .card {
   background: white;
   margin-top: 30px 0;
